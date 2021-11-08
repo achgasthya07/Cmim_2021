@@ -1,2 +1,2 @@
 # Cmim_2021
-Contains source files for the LUT CMiM course 2021
+Contains source files for the LUT Cmim course 2021
